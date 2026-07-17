@@ -25,4 +25,4 @@ celebrated the legendary {hero_name} and the amazing {adjective} adventure !
 
 print("\n ======= MAD LIBS STORY ====== ")
 
-print(story)
+print(story)   

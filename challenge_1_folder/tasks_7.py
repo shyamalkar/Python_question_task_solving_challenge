@@ -5,3 +5,5 @@ number = int(input("Enter a number:"))
 
 result = (word +  " ") * number 
 print(result.strip())
+
+
