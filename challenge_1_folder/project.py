@@ -8,7 +8,7 @@ place = input("Enter a place:")
 hero_name = str(input("Enter a hero name:"))
 
 # fevorite number and arithmetic 
-fav_number = int(input("Enter your fevorite number:"))
+fav_number = int(input("Enter your fevorite number:")) 
 magic_number = fav_number * 3 
 
 # Draft and output the story 
