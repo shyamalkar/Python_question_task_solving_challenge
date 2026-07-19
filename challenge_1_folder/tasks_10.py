@@ -4,3 +4,4 @@ print("original types", type(number))
 number = float(number)
 print("New type:", type(number))
 print("Number raised to the power of 3:", number ** 3 ) 
+
