@@ -6,3 +6,4 @@ result = (num1 > 10 and num2 > 10 and
 print(result)
 
 
+
